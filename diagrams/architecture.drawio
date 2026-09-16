@@ -106,9 +106,6 @@
         <mxCell id="IatS4kjVQK-3umlORt-7-39" connectable="0" parent="IatS4kjVQK-3umlORt-7-51" style="group" value="" vertex="1">
           <mxGeometry height="110.00000000000001" width="78" x="32" y="57.00000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="IatS4kjVQK-3umlORt-7-76" edge="1" parent="IatS4kjVQK-3umlORt-7-39" source="IatS4kjVQK-3umlORt-7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IatS4kjVQK-3umlORt-7-36" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IatS4kjVQK-3umlORt-7-7" parent="IatS4kjVQK-3umlORt-7-39" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;" value="" vertex="1">
           <mxGeometry height="46.5" width="50" x="5" as="geometry" />
         </mxCell>
