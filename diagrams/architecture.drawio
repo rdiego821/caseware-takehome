@@ -61,9 +61,6 @@
         <mxCell id="IatS4kjVQK-3umlORt-7-32" parent="IatS4kjVQK-3umlORt-7-75" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Engagement Index Consumer" vertex="1">
           <mxGeometry height="30" width="99" y="91.25" as="geometry" />
         </mxCell>
-        <mxCell id="IatS4kjVQK-3umlORt-7-74" edge="1" parent="IatS4kjVQK-3umlORt-7-75" source="IatS4kjVQK-3umlORt-7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.251;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" target="IatS4kjVQK-3umlORt-7-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IatS4kjVQK-3umlORt-7-52" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="220" width="994.5" x="348" y="720" as="geometry" />
         </mxCell>
@@ -202,11 +199,8 @@
         <mxCell id="IatS4kjVQK-3umlORt-7-13" parent="IatS4kjVQK-3umlORt-7-26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="invoke" vertex="1">
           <mxGeometry height="30" width="62.53012048192772" x="392.00240963855424" y="55" as="geometry" />
         </mxCell>
-        <mxCell id="IatS4kjVQK-3umlORt-7-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;CASEWARE ENGAGEMENT TEMPLATE UOPDATE SYSTEM ARCHITECTURE&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="1032" x="339.25" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IatS4kjVQK-3umlORt-7-73" edge="1" parent="1" source="IatS4kjVQK-3umlORt-7-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="IatS4kjVQK-3umlORt-7-72">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IatS4kjVQK-3umlORt-7-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;CASEWARE ENGAGEMENT TEMPLATE UPDATE SYSTEM ARCHITECTURE&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="1032" x="329.25" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
